@@ -1,1 +1,1 @@
-# minicurso_python
+# Introdução à Análise de Dados com Python
