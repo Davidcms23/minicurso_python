@@ -5,6 +5,10 @@
 Este minicurso, apresentado durante a Semana da Estatística da UFRN, oferece uma introdução prática à programação em Python aplicada à análise de dados. O conteúdo abrange desde tipos de dados básicos até o uso de bibliotecas essenciais como Numpy, Pandas e Matplotlib, com foco no uso dessas ferramentas para resolver problemas em estatística.
 
 [Ir para Materiais de Referência](#materiais-de-referencia)
+# Material
+
+ - [Notebook](/Material)
+ - [Arquivo CSV](/Material)
 
 # Materiais de Referência:
  - [Documentação Oficial do Python](https://docs.python.org/3/)
