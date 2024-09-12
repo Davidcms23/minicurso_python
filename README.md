@@ -7,8 +7,8 @@ Este minicurso, apresentado durante a Semana da Estatística da UFRN, oferece um
 [Ir para Materiais de Referência](#materiais-de-referencia)
 # Material
 
- - [Notebook](/Material)
- - [Arquivo CSV](/Material)
+ - [Notebook](/Material/Introdução_à_Análise_de_Dados_com_Python.ipynb)
+ - [Arquivo CSV](/Material/vendas.csv)
 
 # Materiais de Referência:
  - [Documentação Oficial do Python](https://docs.python.org/3/)
