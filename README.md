@@ -16,7 +16,7 @@ Este repositório contém o material utilizado no minicurso "Introdução à An�
 Para acompanhar o minicurso, o material é disponibilizado em um Jupyter Notebook, compatível com o Google Colab. Siga as instruções abaixo para utilizá-lo:
 
 1. Clique no link abaixo para abrir o notebook no Google Colab:
-   [Abrir no Google Colab](https://colab.research.google.com/github/usuario/repo/blob/main/minicurso.ipynb)
+   [Abrir no Google Colab](https://colab.research.google.com/drive/1EsY3Wa808GyLTlOu3h4GzFcUU6zJF5Dr?usp=sharing)
 
 2. Uma vez aberto, você pode executar as células do notebook diretamente no Colab.
 
