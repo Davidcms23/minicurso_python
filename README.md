@@ -9,6 +9,8 @@ Este repositório contém o material utilizado no minicurso "Introdução à An�
 - **3. Funções**: Definição de funções, argumentos, retorno e funções lambda.
 - **4. Bibliotecas para Data Science**: Introdução ao Numpy, Pandas (DataFrames) e Matplotlib (visualização de dados).
 
+Você pode encontrar as respostas dos problemas de cada tópico em [R_Problemas](/R_Problemas).
+
 ## Como Usar o Material
 
 ### 1. Acessando o Notebook no Google Colab
@@ -26,7 +28,7 @@ Para acompanhar o minicurso, o material é disponibilizado em um Jupyter Noteboo
 
 Durante o minicurso, utilizaremos um arquivo `.csv` com dados para realizar as análises. Para trabalhar com esse arquivo no Google Colab:
 
-1. Faça o download do arquivo `.csv` disponível neste repositório.
+1. Faça o download do arquivo [vendas.csv](/Material/vendas.csv) disponível neste repositório.
 
 2. No Google Colab, faça o upload do arquivo `.csv`:
    - Clique em "Files" (Arquivos) no lado esquerdo.
