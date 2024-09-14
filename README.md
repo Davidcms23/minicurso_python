@@ -17,12 +17,35 @@ Você pode encontrar as respostas dos problemas de cada tópico em [R_Problemas]
 
 Para acompanhar o minicurso, o material é disponibilizado em um Jupyter Notebook, compatível com o Google Colab. Siga as instruções abaixo para utilizá-lo:
 
-1. Clique no link abaixo para abrir o notebook no Google Colab:
+1. Clique no link para abrir o notebook no Google Colab:
    [Abrir no Google Colab](https://colab.research.google.com/drive/1EsY3Wa808GyLTlOu3h4GzFcUU6zJF5Dr?usp=sharing)
 
 2. Uma vez aberto, você pode executar as células do notebook diretamente no Colab.
 
 3. Para garantir que você tem acesso a todos os dados, certifique-se de fazer o upload do arquivo `.csv` (veja mais abaixo).
+
+### Alternativa: JupyterLite
+
+Como utilizar o notebook no JupyterLite
+
+Para acompanhar o minicurso usando o JupyterLite, siga as instruções abaixo. Você precisará baixar o arquivo .ipynb e carregá-lo no ambiente JupyterLite online.
+Passos para utilizar o notebook:
+
+1. Baixe o arquivo do notebook:
+   - Clique no link para baixar o arquivo .ipynb necessário: [Baixar notebook](/Material/Introdução_à_Análise_de_Dados_com_Python.ipynb).
+
+2. Acesse o JupyterLite:
+   - Abra o site do [JupyterLite](https://jupyter.org/try-jupyter/lab/) online, onde você poderá executar o notebook diretamente no navegador, sem a necessidade de instalações.
+
+3. Carregue o notebook:
+   - No JupyterLite, clique no ícone de Upload (localizado no canto superior esquerdo) e selecione o arquivo .ipynb que você baixou.
+
+   - O notebook será carregado e exibido na interface do JupyterLite.
+
+3. Execute as células:
+   - Assim como no Jupyter local ou Colab, você pode executar as células do notebook clicando nelas e pressionando Shift + Enter.
+
+
 
 ### 2. Utilizando o Arquivo `.csv`
 
