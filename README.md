@@ -35,7 +35,7 @@ Passos para utilizar o notebook:
    - Clique no link para baixar o arquivo .ipynb necessário: [Baixar notebook](/Material/Introdução_à_Análise_de_Dados_com_Python.ipynb).
 
 2. Acesse o JupyterLite:
-   - Abra o site do [JupyterLite](https://jupyter.org/try-jupyter/lab/) online, onde você poderá executar o notebook diretamente no navegador, sem a necessidade de instalações.
+   - Abra o site do [JupyterLite](https://jupyter.org/try-jupyter/lab/) online, onde você poderá executar o notebook diretamente no navegador.
 
 3. Carregue o notebook:
    - No JupyterLite, clique no ícone de Upload (localizado no canto superior esquerdo) e selecione o arquivo .ipynb que você baixou.
