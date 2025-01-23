@@ -1,6 +1,6 @@
 # Minicurso: Introdução à Análise de Dados com Python
 
-Este repositório contém o material utilizado no minicurso "Introdução à Análise de Dados com Python", oferecido durante a Semana da Estatística da UFRN. O objetivo do minicurso é apresentar os fundamentos da programação em Python com foco na análise de dados, utilizando bibliotecas como Numpy, Pandas e Matplotlib.
+Este repositório contém o material utilizado no minicurso "Introdução à Análise de Dados com Python", oferecido durante a Semana da Estatística da UFRN 2024. O objetivo do minicurso é apresentar os fundamentos da programação em Python com foco na análise de dados, utilizando bibliotecas como Numpy, Pandas e Matplotlib.
 
 ## Estrutura do Conteúdo
 
